@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521550742 source:c:\test\ggrande\nivel 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
